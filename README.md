@@ -5,7 +5,7 @@ directly with LAMMPS. Structures in the datasets used for the training have been
 DFT/PBE Calculations with VASP package using cutoff energies of 400 and 600 eV. Files are 
 provided for both potentials. Datasets are also provided allowing to train new potential from 
 other neural netwrok atomistic potentials architextures (DeepMD, PhysNEt, ... ). This has been
-developped by Sanz C.*, Allouche A.-R.*, Bousige C.**, Mignon P.* from *Institut Lumière 
+developped by Sanz C.* , Allouche A.-R.* , Bousige C.** , Mignon P.* from *Institut Lumière 
 Matière and **Laboratoire Multimatériaux et Interfaces at Université Claude Bernard Lyon 1, France. 
 
 To be cited with : 
